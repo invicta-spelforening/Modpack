@@ -1,10 +1,12 @@
-# Modpack
+# Modpack v1.1
 
 Mods:
 
 Alex's mobs - https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
 
 Angel ring - https://www.curseforge.com/minecraft/mc-mods/angel-ring
+
+Applied Energistics 2 https://www.curseforge.com/minecraft/mc-mods/applied-energistics-2
 
 Appleskin - https://www.curseforge.com/minecraft/mc-mods/appleskin
 
@@ -19,6 +21,8 @@ Biomes o' plenty - https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty
 BlockUI - https://www.curseforge.com/minecraft/mc-mods/blockui
 
 Buildersaddition - https://www.curseforge.com/minecraft/mc-mods/buildersaddition
+
+CC: Tweaked - https://www.curseforge.com/minecraft/mc-mods/cc-tweaked
 
 Citadel - https://www.curseforge.com/minecraft/mc-mods/citadel/
 
@@ -37,6 +41,12 @@ Decorative Blocks - https://www.curseforge.com/minecraft/mc-mods/decorative-bloc
 Ding - https://www.curseforge.com/minecraft/mc-mods/ding
 
 Domum Ornamentum - https://www.curseforge.com/minecraft/mc-mods/domum-ornamentum
+
+Eating animations - https://www.curseforge.com/minecraft/mc-mods/eating-animation-forge
+
+EnderChests - https://www.curseforge.com/minecraft/mc-mods/enderchests
+
+EnderTanks - https://www.curseforge.com/minecraft/mc-mods/endertanks
 
 openblocks elevator - https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator
 
@@ -64,13 +74,19 @@ Mod Name Tooltip - https://www.curseforge.com/minecraft/mc-mods/mod-name-tooltip
 
 More Minecarts - https://www.curseforge.com/minecraft/mc-mods/more-minecarts
 
+Mouse tweaks - https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks
+
 Multi Piston - https://www.curseforge.com/minecraft/mc-mods/multi-piston
 
 Placebo - https://www.curseforge.com/minecraft/mc-mods/placebo/
 
 Quark - https://www.curseforge.com/minecraft/mc-mods/quark
 
+Realistic horse genetics - https://www.curseforge.com/minecraft/mc-mods/realistic-horse-genetics
+
 Secretrooms - https://www.curseforge.com/minecraft/mc-mods/secretroomsmod
+
+Sky Villages - https://www.curseforge.com/minecraft/mc-mods/sky-villages-forge
 
 Sophisticated Backpacks - https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
 
