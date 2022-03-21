@@ -120,6 +120,4 @@ Valhesia Core - https://www.curseforge.com/minecraft/mc-mods/valhelsia-core
 
 Valhelsia-structures - https://www.curseforge.com/minecraft/mc-mods/valhelsia-structures
 
-Vampirism - https://www.curseforge.com/minecraft/mc-mods/vampirism-become-a-vampire
-
 When Dungeons arise - https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise/
